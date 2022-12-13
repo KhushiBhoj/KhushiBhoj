@@ -6,6 +6,7 @@
   $('.color-mode').click(function () {
     $('.color-mode-icon').toggleClass('active')
     $('body').toggleClass('dark-mode')
+    $('.navbar').toggleClass('dark-mode-bg')
     $('.soft-skills').toggleClass('dark-mode-d')
     $('.carousel-item h4').toggleClass('dark-mode-d')
     $('.carousel-item h6').toggleClass('dark-mode-d')
