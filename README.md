@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Competitive Programming and my Data Science Skills.
+👯 I’m looking to collaborate on Data Science and Machine Learning Projects.
+😄 Pronouns: she/her
+📫 How to reach me:
+LinkedIn: https://www.linkedin.com/in/khushibhoj/
+Twitter: https://twitter.com/KhushiBhojj
+Medium: https://medium.com/@khushibhoj
+
 <!--
 **KhushiBhoj/KhushiBhoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
