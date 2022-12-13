@@ -197,6 +197,7 @@ strong {
 
 .navbar[class*="-pinned"] {
   transform: translate(0, 0);
+  background-color: #FDECEF;
 }
 
 .navbar[class*="headroom--not-top"] {
@@ -320,6 +321,10 @@ strong {
 .dark-mode {
   background: #0F110C;
   color: #9D6381 !important;
+}
+
+.dark-mode-bg {
+  background-color: #0F110C !important;
 }
 
 .dark-mode .navbar-light .navbar-nav .nav-link {
