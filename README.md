@@ -6,7 +6,7 @@
 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/khushibhoj/
 - Twitter: https://twitter.com/KhushiBhojj
-- Medium: https://medium.com/@khushibhoj
+- Medium: https://medium.com/@khushibhoj 
 
 <!--
 **KhushiBhoj/KhushiBhoj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
